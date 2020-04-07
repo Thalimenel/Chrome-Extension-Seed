@@ -9,12 +9,12 @@
   },
   "author": "Pavel Gershanik",
   "license": "ISC",
-  "dependencies": {
-    "@types/chrome": "0.0.103"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "@types/chrome": "0.0.103",
     "adm-zip": "^0.4.14",
     "gulp": "^4.0.2",
-    "gulp-zip": "^5.0.1"
+    "gulp-zip": "^5.0.1",
+    "typescript": "^3.8.3"
   }
 }
