@@ -1,3 +1,6 @@
 {
-    "welcome": "Welcome"
+    "welcome": {
+        "message": "Welcome world",
+        "description": "Welcoming Message"
+    }
 }
