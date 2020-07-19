@@ -1,1 +1,1 @@
-window.chrome.runtime.onInstalled.addListener(() => console.log("Type check"));
+chrome.runtime.onInstalled.addListener(() => console.log("Type check"));
